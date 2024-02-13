@@ -1,6 +1,7 @@
 # Generated Files
 build/
 *.apk
+*.aab
 output.json
 
 # Local Configuration File ( sdk path, etc )
